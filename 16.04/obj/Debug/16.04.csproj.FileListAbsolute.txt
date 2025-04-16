@@ -1,0 +1,11 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\bin\Debug\16.04.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\bin\Debug\16.04.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\bin\Debug\16.04.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\16.04.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\16.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\_16._04.Form1.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\_16._04.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\16.04.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\16.04.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\16.04.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Кивалкина_Анастасия_ПР23\ффрэймфорррк.form\16.04\obj\Debug\16.04.pdb
