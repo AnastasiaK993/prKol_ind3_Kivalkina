@@ -26,7 +26,15 @@ namespace _16._04
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            textBox1.Text= pochts
+            int l = listBox1.SelectedIndex;
+            string []xz = listBox1.Text.Split(' ');
+
+            textBox1.Text = xz[0];
+            textBox2.Text = xz[1];
+            textBox3.Text = xz[2];
+            
+            
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -36,9 +44,32 @@ namespace _16._04
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Pochta pochta = new Pochta(textBox1.Text, textBox2.Text, textBox3.Text);
-            pochts.Add(pochta);
-            listBox1.Items.Add(pochta.NameOrganoz);
+            if (textBox1.Text != "" && textBox2.Text != "" && textBox3.Text != "")
+            {
+                Pochta pochta = new Pochta(textBox1.Text, textBox2.Text, textBox3.Text);
+                pochts.Add(pochta);
+                string str = textBox1.Text + " " + textBox2.Text + " " + textBox3.Text;
+                //listBox1.Items.Add(pochta.NameOrganoz);
+                listBox1.Items.Add(str);
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedIndex!=-1)
+            {
+listBox1.Items.RemoveAt(listBox1.SelectedIndex);
+            }
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int l = listBox1.SelectedIndex;
+           
+            string str = textBox1.Text + " " + textBox2.Text + " " + textBox3.Text;
+            listBox1.Items.Insert(l, str);listBox1.Items.RemoveAt(l+1);
+            
         }
     }
 }
